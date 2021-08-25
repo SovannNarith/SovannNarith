@@ -1,5 +1,5 @@
 
-[![Hello there!](https://ruppedukh-my.sharepoint.com/personal/sovann_narith2017_rupp_edu_kh/Documents/photo_2021-08-25_21-25-34.jpg)](https://rails.netlify.app)
+[![Hello there!](https://b2-security.bg/images/2/b1e3ac341c6c35191b84c44a1dafe4bf/index-security-bg-353.jpg)](https://rails.netlify.app)
 
 <p>
   <h1 align="center"><b>Hello there, I'm Narith 👋</b></h1>
@@ -24,15 +24,18 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a backend devoloper at [Meraa](https://github.com/Meraa-Team)
-- 🔭 I’m currently working on my Portfolio Website & POS System
+### Introduce myself
+- 🔭 I’m a backend developer at [Meraa](https://github.com/Meraa-Team)
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Raise Meraa Team with mates
 - 💬 Ask me about anything, I am happy to help 
-- 📬 How to reach me: [Let's get in touch!](https://github.com/SovannNarith)
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people 
+- 📬 How to reach me: narithsovann6@gmail.com
+- ⚡ Fun fact: --- I Love Music, Drum ---
 
 <br>
+
+
+### Languages and Tools: 
+
 
