@@ -25,7 +25,6 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Introduce myself
-- 🔭 I’m a backend developer at [Meraa](https://github.com/Meraa-Team)
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2021 Goals: Raise Meraa Team with mates
