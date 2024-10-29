@@ -27,9 +27,7 @@
 ### Introduce myself
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
-- 🥅 2021 Goals: 
 - 💬 Ask me about anything, I am happy to help 
-- 📬 How to reach me: narithsovann6@gmail.com
 - ⚡ Fun fact: --- I Love Music, Drum ---
 
 <br>
